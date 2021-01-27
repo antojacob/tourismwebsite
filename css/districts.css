@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    overflow-x: hidden;
+  }
+
+.navbar-nav{
+    margin-left: 800px;
+}
+.logo{
+    height: 4em;
+    width: 5em;
+}
+.navbar-dark.bg-primary{
+    background-color: #314152 !important;
+}
+.nav-item{
+    color: white;
+    margin-right: 8px;
+}
+
+.body-char{
+    background-color: #88bdbc;
+}
+
+#heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 25px;
+    font-style: oblique;
+    color: white;
+}
+.district{
+    float: left;
+    margin-left: 7px;
+    margin-top: 7px;
+    border: 1px solid  #314152;
+}
+.district img{
+    height: 180px;
+    width: 250px;
+    margin: 10px;
+}
+.text-link{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    display: block;
+}
+.footer {
+    clear: both;
+    position: relative;
+    height: 50px;
+    width: 100%;
+    background-color:#314152;
+    color: white;
+    text-align: center ;
+    padding-top: 16px;
+}

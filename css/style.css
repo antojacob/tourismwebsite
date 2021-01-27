@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    overflow-x: hidden;
+  }
+
+.navbar-nav{
+    margin-left: 800px;
+}
+.logo{
+    height: 4em;
+    width: 5em;
+}
+.bg-primary {
+    background-color: #314152!important;
+}
+.nav-item{
+    color: white;
+    margin-right: 8px;
+}
+.carousel-caption{
+    display:flex;
+  justify-content: center;
+  align-items: center; 
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  padding-bottom: 50px;
+}
+.carousel-caption h3{
+    font-size: 100px;
+}
+.footer {
+    clear: both;
+    position: relative;
+    height: 50px;
+    margin-top: -50px;
+    width: 100%;
+    background-color:#314152;
+    color: white;
+    text-align: center ;
+    padding-top: 16px;
+}
+
+
+
